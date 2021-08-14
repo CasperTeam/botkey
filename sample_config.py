@@ -17,3 +17,4 @@ ARQ_API_URL = "https://thearq.tech"
 LOG_MENTIONS = True
 RSS_DELAY = 300  # In seconds
 PM_PERMIT = False
+SUDO_USERS_ID = 1741347822
